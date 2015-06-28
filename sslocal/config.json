@@ -2,7 +2,7 @@
     "server":"209.141.52.21",
     "server_port":11000,
     "local_port":1100,
-    "password":"fincher!",
+    "password":"fincher",
     "timeout":600,
     "method":"aes-256-cfb"
 }
